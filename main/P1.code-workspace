@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Embedded/course-iot-with-esp-idf-main/workspace/my_mpu6500_project"
+		}
+	],
+	"settings": {}
+}
